@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Repsol</name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> Sat Feb 01 2025 00:00:00 GMT+0000 (Greenwich Mean Time)<br>
+          <strong>Field:</strong> Akacias<br>
+          <strong>Comments:</strong> venta activo a Ecopetrol. Geopark ofert? 500 musd pero Ecop hizo pre-emption
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-73.6861,3.959722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Geopark Frontera</name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> Sat Mar 01 2025 00:00:00 GMT+0000 (Greenwich Mean Time)<br>
+          <strong>Field:</strong> Lago Agrio<br>
+          <strong>Comments:</strong> Venta de activos. 4kbopd. X muy alto, no dan economics para ellos
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-76.8771,0.088348,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hocol</name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> Sat Mar 01 2025 00:00:00 GMT+0000 (Greenwich Mean Time)<br>
+          <strong>Field:</strong> Ocelote<br>
+          <strong>Comments:</strong> Stopped Divestment processes
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-71.5982,4.276552,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hupecol</name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> Sat Mar 01 2025 00:00:00 GMT+0000 (Greenwich Mean Time)<br>
+          <strong>Field:</strong> Llanos 58-4<br>
+          <strong>Comments:</strong> Venta a ex/Hupecol
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-72.6447,3.857103,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> <br>
+          <strong>Field:</strong> <br>
+          <strong>Comments:</strong> 
+        ]]>
+      </description>
+      <Point>
+        <coordinates>#N/A,#N/A,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> <br>
+          <strong>Field:</strong> <br>
+          <strong>Comments:</strong> 
+        ]]>
+      </description>
+      <Point>
+        <coordinates>#N/A,#N/A,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> <br>
+          <strong>Field:</strong> <br>
+          <strong>Comments:</strong> 
+        ]]>
+      </description>
+      <Point>
+        <coordinates>#N/A,#N/A,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> <br>
+          <strong>Field:</strong> <br>
+          <strong>Comments:</strong> 
+        ]]>
+      </description>
+      <Point>
+        <coordinates>#N/A,#N/A,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> <br>
+          <strong>Field:</strong> <br>
+          <strong>Comments:</strong> 
+        ]]>
+      </description>
+      <Point>
+        <coordinates>#N/A,#N/A,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> <br>
+          <strong>Field:</strong> <br>
+          <strong>Comments:</strong> 
+        ]]>
+      </description>
+      <Point>
+        <coordinates>#N/A,#N/A,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> <br>
+          <strong>Field:</strong> <br>
+          <strong>Comments:</strong> 
+        ]]>
+      </description>
+      <Point>
+        <coordinates>#N/A,#N/A,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> <br>
+          <strong>Field:</strong> <br>
+          <strong>Comments:</strong> 
+        ]]>
+      </description>
+      <Point>
+        <coordinates>#N/A,#N/A,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> <br>
+          <strong>Field:</strong> <br>
+          <strong>Comments:</strong> 
+        ]]>
+      </description>
+      <Point>
+        <coordinates>#N/A,#N/A,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> <br>
+          <strong>Field:</strong> <br>
+          <strong>Comments:</strong> 
+        ]]>
+      </description>
+      <Point>
+        <coordinates>#N/A,#N/A,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> <br>
+          <strong>Field:</strong> <br>
+          <strong>Comments:</strong> 
+        ]]>
+      </description>
+      <Point>
+        <coordinates>#N/A,#N/A,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> <br>
+          <strong>Field:</strong> <br>
+          <strong>Comments:</strong> 
+        ]]>
+      </description>
+      <Point>
+        <coordinates>#N/A,#N/A,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> <br>
+          <strong>Field:</strong> <br>
+          <strong>Comments:</strong> 
+        ]]>
+      </description>
+      <Point>
+        <coordinates>#N/A,#N/A,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> <br>
+          <strong>Field:</strong> <br>
+          <strong>Comments:</strong> 
+        ]]>
+      </description>
+      <Point>
+        <coordinates>#N/A,#N/A,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name></name>
+      <description>
+        <![CDATA[
+          <strong>Date:</strong> <br>
+          <strong>Field:</strong> <br>
+          <strong>Comments:</strong> 
+        ]]>
+      </description>
+      <Point>
+        <coordinates>#N/A,#N/A,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
